@@ -147,8 +147,8 @@ $ultimosAnuncios = $a->getUltimosAnuncios($p, $quantidadePorPagina, $filtros);
 
 <?php
 // API config
-$API_Key = 'AIzaSyD_107LHecTTnWS9jyb1MOM64b0WVkBUpU';
-$Channel_ID = 'UCP8aDnT-gbkqnCjUPrIKsIQ';
+$API_Key = 'AIzaSyD_10******************************';
+$Channel_ID = 'UCP8aDnT-****************';
 $Max_Results = 10;
 $apiError = 'Vídeo não encontrado';
 // Get videos from channel by YouTube Data API
